@@ -1,0 +1,19 @@
+{
+  "modelData": [
+    {
+      "PARENT_ID": "1",
+      "OBJECT_ID": "1",
+      "SORT_ORDER": "1",
+      "ICON": "sap-icon://lightbulb",
+      "TEXT": "Submit Meter Reading"
+    },
+    {
+      "PARENT_ID": "1",
+      "OBJECT_ID": "2",
+      "SORT_ORDER": "2",
+      "ICON": "sap-icon://bar-chart",
+      "TEXT": "Bar Graph"
+
+    }  
+   ]
+}
